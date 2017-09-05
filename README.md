@@ -1,7 +1,8 @@
-# Admin Counter
+# Telegram Channels Admin Counter
 Find channels admin count
+for example @afsaran_ir has 9 admin !
 
-#### Currently this bug patched
+#### This bug Currently patched
 
 ## Requirements
 - python-telegram-bot
