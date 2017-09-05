@@ -1,6 +1,3 @@
-# pentesterschool: https://t.me/joinchat/AAAAADxx23-T1S9MTK8WnQ
-# backconnect : https://t.me/joinchat/AAAAAEMfX635WpKcCd5yyg
-
 import re
 import requests
 import json
